@@ -3,8 +3,9 @@ public class Main {
 
         //for loop - executes a block of code for a limited amount of time
 
-        for (int i=10; i >=0; i-=2){
+        for (int i=10; i >=0;){
             System.out.println(i);
+            i-=2;
         }
         System.out.println("Happy New Year 2023!!");
     }
