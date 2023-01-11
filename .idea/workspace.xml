@@ -41,9 +41,19 @@
       <option name="presentableId" value="Default" />
       <updated>1673404571218</updated>
     </task>
+    <task id="LOCAL-00001" summary="Reversed the countdown from 1-10 to 10-1. Added a Happy New year 2023 at the bottom">
+      <created>1673405134120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673405134120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Reversed the countdown from 1-10 to 10-1. Added a Happy New year 2023 at the bottom" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reversed the countdown from 1-10 to 10-1. Added a Happy New year 2023 at the bottom" />
   </component>
 </project>
